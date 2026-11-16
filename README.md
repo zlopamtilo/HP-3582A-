@@ -9,4 +9,7 @@ measured data in ASCII format.
 The proposed solution demonstrates how the operational lifespan of legacy laboratory instruments can be successfully 
 extended while allowing their seamless integration and automation in modern laboratory environments. The obtained 
 results confirm reliable communication, accurate data transmission, and a substantial expansion of the HP 3582A’s 
-functionality under contemporary laboratory conditions
+functionality under contemporary laboratory conditions.
+
+<img width="824" height="496" alt="gui_1" src="https://github.com/user-attachments/assets/20752211-1f83-4689-b98a-046aea8867b6" />
+
