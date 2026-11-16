@@ -18,6 +18,7 @@ functionality under contemporary laboratory conditions.
 
 <img width="824" height="496" alt="gui_1" src="https://github.com/user-attachments/assets/20752211-1f83-4689-b98a-046aea8867b6" />
 
+
 [https://github.com/Twilight-Logic/AR488/](https://github.com/Twilight-Logic/AR488/)
 
-
+[Arduino GPIB-USB Connector Shell](https://www.thingiverse.com/thing:993349)
