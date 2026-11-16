@@ -1,3 +1,8 @@
+![IMPLEMENTATION OF A LOW-COST HP-IB (GPIB, IEEE 488) 
+INTERFACE AND MATLAB GUI APPLICATION FOR HP 3582A 
+SPECTRUM ANALYZER CONTROL]([https://example.com/putanja/do/slike.png](https://github.com/zlopamtilo/HP-3582A-/blob/main/Implementation_of_a_low-cost_HP-IB_GPIB_IEEE_488_i-1.pdf)
+
+
 This paper presents a low-cost implementation of an HP-IB (GPIB, IEEE 488) interface based on the open source AR488 firmware running on an Arduino Nano microcontroller. HP-IB is a short-range, 8-bit parallel, multi master digital interface bus used for remote control and data acquisition between laboratory instruments and 
 controllers. In this work, the HP 3582A spectrum analyzer serves as a case study.
 
